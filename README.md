@@ -1,5 +1,6 @@
 # DEMAND-FORECASTING-OF-A-FOOD-STORE-ANALYSIS-AN-INDIA-MEAL-DELIVERY-COMPANY
-This is a research dissertation for the partial fulfillment for the degree of MSc Artificial Intelligence and Business Analytics
+This is a research dissertation for the partial fulfillment for the degree of MSc Artificial Intelligence and Business Analytics.
+
 The food and beverage industry are one of the most important sectors in any country's 
 economy. Predicting food demand is a daunting task. Especially when online and in-store 
 orders generate a wealth of data that needs to be efficiently stored, analysed, understood, 
